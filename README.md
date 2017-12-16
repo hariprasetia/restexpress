@@ -9,7 +9,7 @@ Requirment:
 * terinstall mongodb
 
 how to run:
-git clone https://github.com/hariprasetya/restexpress/
-cd restexpress
-node index.js
+* git clone https://github.com/hariprasetya/restexpress/
+* cd restexpress
+* node index.js
 
